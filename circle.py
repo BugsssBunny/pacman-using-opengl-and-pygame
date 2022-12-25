@@ -1,6 +1,6 @@
 from OpenGL.GL import *
 import numpy as np
-from md_point_lines import *
+from mid_point_lines import *
 # PACMAN CIRCLE
 
 
